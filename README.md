@@ -1,8 +1,8 @@
 
 ## Hola bienvenido, soy Mauro 👋
 
-
-- 🔭 Trabajo como Tester de Software
+- 🌎 Montevideo, Uruguay
+- 🔭 Trabajo actualmente como Tester de Software
 - 👨‍💻 Soy estudiante de la carrera Certified Tech Developer (Digital House)
 - 🌱 Soy un apasionado por el aprendizaje continuo, por lo cual estoy constantemente ampliando mis conocimientos. Ahora complementando la carrera de CTD con:
      Javascript, NodeJs y Express   
