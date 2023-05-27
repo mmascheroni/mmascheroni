@@ -8,7 +8,7 @@
 Ahora complementando la carrera de CTD con: Javascript, NodeJs y Express   
      
 ### Lenguajes y Herramientas que manejo
-[![HTML](https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png)](https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png)
+![HTML5](https://img.shields.io/badge/HTML5--_.svg?style=for-the-badge&logo=html5)
 <a href="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" target="blank"><img align="center" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML5" height="32" width="30" /></a>
 <a href="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" target="blank"><img align="center" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS3" height="32" width="30" /></a>
 <a href="https://getbootstrap.com/docs/5.3/assets/brand/bootstrap-logo-shadow.png" target="blank"><img align="center" src="https://getbootstrap.com/docs/5.3/assets/brand/bootstrap-logo-shadow.png" alt="Bootstrap" height="30" width="30" /></a>
