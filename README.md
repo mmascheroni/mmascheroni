@@ -4,8 +4,8 @@
 - 🌎 Montevideo, Uruguay
 - 🔭 Trabajo actualmente como Tester de Software
 - 👨‍💻 Soy estudiante de la carrera Certified Tech Developer (Digital House)
-- 🌱 Soy un apasionado por el aprendizaje continuo, por lo cual estoy constantemente ampliando mis conocimientos. Ahora complementando la carrera de CTD con:
-     Javascript, NodeJs y Express   
+- 🌱 Soy un apasionado por el aprendizaje continuo, por lo cual estoy constantemente ampliando mis conocimientos. 
+Ahora complementando la carrera de CTD con: Javascript, NodeJs y Express   
      
 ### Lenguajes y Herramientas que manejo
 <a href="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" target="blank"><img align="center" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML5" height="32" width="30" /></a>
