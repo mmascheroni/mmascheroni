@@ -19,3 +19,4 @@ Ahora complementando la carrera de CTD con: Javascript, NodeJs y Express
 ### Contacto
 
 <a href="https://www.linkedin.com/in/mauro-mascheroni-pardo/" target="blank"><img align="center" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" alt="Mauro Mascheroni" height="30" width="40" /></a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin)](https://www.linkedin.com/in/mauro-mascheroni-pardo/)
