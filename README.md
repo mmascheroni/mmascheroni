@@ -22,4 +22,4 @@
  
 ### Contacto
 
-<a href="https://www.linkedin.com/in/mauro-mascheroni-pardo/" target="blank"><img align="center" src="https://static.licdn.com/sc/h/akt4ae504epesldzj74dzred8" alt="Mauro Mascheroni" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/mauro-mascheroni-pardo/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Mauro Mascheroni" height="30" width="40" /></a>
