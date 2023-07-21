@@ -5,7 +5,7 @@
 - 🔭 Trabajo actualmente como Tester de Software
 - 👨‍💻 Soy estudiante de la carrera Certified Tech Developer (Digital House)
 - 🌱 Soy un apasionado por el aprendizaje continuo, por lo cual estoy constantemente ampliando mis conocimientos. 
-Ahora complementando la carrera de CTD con: Javascript, NodeJs y Express   
+  
      
 ### 🚀 Conocimientos
 <a href="https://github.com/mmascheroni"><img src="https://camo.githubusercontent.com/b1720e127ee280daab63f84b508b29abe2540b02f5f57675765ad07da1315241/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d48544d4c352d3333333333333f7374796c653d666c6174266c6f676f3d48544d4c35" alt="HTML5" data-canonical-src="https://img.shields.io/badge/-HTML5-333333?style=flat&amp;logo=HTML5" style="max-width: 100%;"></a>
