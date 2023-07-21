@@ -16,6 +16,7 @@
 <a href="https://github.com/mmascheroni"><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" data-canonical-src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" style="max-width: 100%;"></a>
 <a href="https://github.com/mmascheroni"><img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring" data-canonical-src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" style="max-width: 100%;"></a>
 <a href="https://github.com/mmascheroni"><img src="https://img.shields.io/badge/MySQL-287eed?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" data-canonical-src="https://img.shields.io/badge/MySQL-287eed?style=for-the-badge&logo=mysql&logoColor=white" style="max-width: 100%;"></a>
+<a href="https://github.com/mmascheroni"><img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="Git" data-canonical-src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" style="max-width: 100%;"></a>
 <a href="https://github.com/mmascheroni"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" data-canonical-src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" style="max-width: 100%;"></a>
 
  
