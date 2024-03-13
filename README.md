@@ -5,7 +5,7 @@
 - 🔭 Trabajo actualmente como Tester de Software
 - 👨‍💻 Mis estudios: <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;📚 Cursando primer semestre de la carrera Tecnólogo en Informática <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;📚 Carrera Certified Tech Developer, cursando 2do track - especialización en Backend (Carrera dictada por Digital House, y &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;pensada en conjunto con Globant y Mercado Libre) <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;📚 Carrera Certified Tech Developer, cursando 2do track - especialización en Backend (Carrera dictada por Digital House, y pensada en conjunto con Globant y Mercado Libre) <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;📚 Egresado de la carrera Tester de Software del Centro de Ensayo de Software (CES) <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;📚 Incursionado en la automatización de pruebas, con Java, Selenium y REST Assured - Typescript y Playwright <br>
 - 🌱 Soy un apasionado por la tecnología, por lo que me motiva a estar en constante aprendizaje. <br>
@@ -27,7 +27,7 @@
 -->
 
 <p align="center"> 
-  <a href="https://skillicons.dev"> 
+  <a href="https://github.com/mmascheroni"> 
     <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,javascript,typescript,nodejs,npm,express,mongodb,postgres,react,vite,java,maven,gradle,spring,hibernate,mysql,cypress,selenium,gherkin,github,git,postman,docker" />
   </a>
 </p>
