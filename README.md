@@ -28,3 +28,18 @@
 ### Contacto
 
 <a href="https://www.linkedin.com/in/mauro-mascheroni/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Mauro Mascheroni" style="max-width: 100%;" target="_blank"/></a>
+<hr>
+
+<div align="center">
+   <div>
+    <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=mmascheroni&show_icons=true&locale=en" alt="mmascheroni" /></p>
+  </div>
+  <hr>
+  <div>
+    <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mmascheroni&" alt="mmascheroni" /></p>
+  </div>
+  <hr>
+  <div>
+    <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mmascheroni&show_icons=true&locale=en&layout=compact" alt="mmascheroni"/></p>
+  </div>
+</div>
