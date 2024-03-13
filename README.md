@@ -1,9 +1,12 @@
 
-## Hola bienvenido, soy Mauro 👋
+## Hola bienvenido, soy Mauro Mascheroni 👋
 
 - 🌎 Montevideo, Uruguay
 - 🔭 Trabajo actualmente como Tester de Software
-- 👨‍💻 Soy estudiante de la carrera Certified Tech Developer (Digital House)
+- 👨‍💻 Esudios:
+-     📚 Primer semestre del Tecnólogo en Informática
+-     📚 Carrera Certified Tech Developer, realizando 2do track - especialización en Backend
+-     📚 Incursionado en la automatización de pruebas, con Java, Selenium y REST Assured - Typescript y Playwright
 - 🌱 Soy un apasionado por el aprendizaje continuo, por lo cual estoy constantemente ampliando mis conocimientos. 
   
      
@@ -23,4 +26,4 @@
  
 ### Contacto
 
-<a href="https://www.linkedin.com/in/mauro-mascheroni-pardo/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Mauro Mascheroni" style="max-width: 100%;"/></a>
+<a href="https://www.linkedin.com/in/mauro-mascheroni/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Mauro Mascheroni" style="max-width: 100%;"/></a>
