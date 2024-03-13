@@ -8,7 +8,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;📚 Carrera Certified Tech Developer, cursando 2do track - especialización en Backend (Carrera dictada por Digital House, y &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;pensada en conjunto con Globant y Mercado Libre) <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;📚 Egresado de la carrera Tester de Software del Centro de Ensayo de Software (CES) <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;📚 Incursionado en la automatización de pruebas, con Java, Selenium y REST Assured - Typescript y Playwright <br>
-- 🌱 Soy un apasionado por el aprendizaje continuo, por lo cual estoy constantemente ampliando mis conocimientos. <br>
+- 🌱 Soy un apasionado por la tecnología, por lo que me motiva a estar en constante aprendizaje. <br>
   
      
 ### 🚀 Conocimientos
