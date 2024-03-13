@@ -12,6 +12,7 @@
   
      
 ### 🚀 Conocimientos
+<!--
 <a href="https://github.com/mmascheroni"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" data-canonical-src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"></a>
 <a href="https://github.com/mmascheroni"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" data-canonical-src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" style="max-width: 100%;"></a>
 <a href="https://github.com/mmascheroni"><img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" data-canonical-src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" style="max-width: 100%;"></a>
@@ -23,6 +24,13 @@
 <a href="https://github.com/mmascheroni"><img src="https://img.shields.io/badge/MySQL-287eed?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" data-canonical-src="https://img.shields.io/badge/MySQL-287eed?style=for-the-badge&logo=mysql&logoColor=white" style="max-width: 100%;"></a>
 <a href="https://github.com/mmascheroni"><img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="Git" data-canonical-src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" style="max-width: 100%;"></a>
 <a href="https://github.com/mmascheroni"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" data-canonical-src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" style="max-width: 100%;"></a>
+-->
+
+<p align="center"> 
+  <a href="https://skillicons.dev"> 
+    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,javascript,typescript,nodejs,npm,express,mongodb,postgres,react,vite,java,maven,gradle,spring,hibernate,mysql,cypress,selenium,gherkin,github,git,postman,docker" />
+  </a>
+</p>
 
  
 ### Contacto
