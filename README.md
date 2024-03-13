@@ -3,10 +3,11 @@
 
 - 🌎 Montevideo, Uruguay
 - 🔭 Trabajo actualmente como Tester de Software
-- 👨‍💻 Esudios:
--     📚 Primer semestre del Tecnólogo en Informática
--     📚 Carrera Certified Tech Developer, realizando 2do track - especialización en Backend
--     📚 Incursionado en la automatización de pruebas, con Java, Selenium y REST Assured - Typescript y Playwright
+- 👨‍💻 Estudios:
+     📚 Primer semestre del Tecnólogo en Informática
+     📚 Carrera Certified Tech Developer, realizando 2do track - especialización en Backend (Carrera dictada por Digital House, y pensada en conjunto con Globant y Mercado Libre)
+     📚 Egresado de la carrera Tester de Software del Centro de Ensayo de Software (CES)
+     📚 Incursionado en la automatización de pruebas, con Java, Selenium y REST Assured - Typescript y Playwright
 - 🌱 Soy un apasionado por el aprendizaje continuo, por lo cual estoy constantemente ampliando mis conocimientos. 
   
      
