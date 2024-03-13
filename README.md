@@ -1,14 +1,14 @@
 
-## Hola bienvenido, soy Mauro Mascheroni 👋
+## 😁 Hola bienvenido, soy Mauro Mascheroni 👋
 
 - 🌎 Montevideo, Uruguay
 - 🔭 Trabajo actualmente como Tester de Software
-- 👨‍💻 Estudios: <br>
-     📚 Primer semestre del Tecnólogo en Informática <br>
-     📚 Carrera Certified Tech Developer, realizando 2do track - especialización en Backend (Carrera dictada por Digital House, y pensada en conjunto con Globant y Mercado Libre)
-     📚 Egresado de la carrera Tester de Software del Centro de Ensayo de Software (CES)
-     📚 Incursionado en la automatización de pruebas, con Java, Selenium y REST Assured - Typescript y Playwright
-- 🌱 Soy un apasionado por el aprendizaje continuo, por lo cual estoy constantemente ampliando mis conocimientos. 
+- 👨‍💻 Mis estudios: <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;📚 Cursando primer semestre de la carrera Tecnólogo en Informática <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;📚 Carrera Certified Tech Developer, cursando 2do track - especialización en Backend (Carrera dictada por Digital House, y &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;pensada en conjunto con Globant y Mercado Libre) <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;📚 Egresado de la carrera Tester de Software del Centro de Ensayo de Software (CES) <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;📚 Incursionado en la automatización de pruebas, con Java, Selenium y REST Assured - Typescript y Playwright <br>
+- 🌱 Soy un apasionado por el aprendizaje continuo, por lo cual estoy constantemente ampliando mis conocimientos. <br>
   
      
 ### 🚀 Conocimientos
@@ -27,4 +27,4 @@
  
 ### Contacto
 
-<a href="https://www.linkedin.com/in/mauro-mascheroni/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Mauro Mascheroni" style="max-width: 100%;"/></a>
+<a href="https://www.linkedin.com/in/mauro-mascheroni/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Mauro Mascheroni" style="max-width: 100%;" target="_blank"/></a>
