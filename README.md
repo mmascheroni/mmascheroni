@@ -35,7 +35,7 @@
  
 ### Contacto
 
-<a href="https://www.linkedin.com/in/mauro-mascheroni/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Mauro Mascheroni" style="max-width: 100%;" target="_blank"/></a>
+<a target="_blank" href="https://www.linkedin.com/in/mauro-mascheroni/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Mauro Mascheroni" style="max-width: 100%;" target="_blank"/></a>
 <hr>
 
 <div align="center">
