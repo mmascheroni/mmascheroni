@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Monserrat&weight=900&size=25&pause=1000&background=13FF0B00&random=false&width=490&lines=%F0%9F%98%81+Hola+bienvenido%2C;Soy+Mauro+Mascheroni+%F0%9F%91%8B%F0%9F%8F%BB)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Montserrat&weight=800&size=25&pause=1000&background=13FF0B00&random=false&width=490&lines=%F0%9F%98%81+Hola+bienvenido%2C;Soy+Mauro+Mascheroni+%F0%9F%91%8B%F0%9F%8F%BB)](https://git.io/typing-svg)
 
 - 🌎 Montevideo, Uruguay
 - 🔭 Tengo experiencia como Tester de Software, actualmente buscando nuevos desafios y crecer profesionalmente 
