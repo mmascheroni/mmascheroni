@@ -1,11 +1,11 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Montserrat&weight=800&size=25&pause=1000&background=13FF0B00&random=false&width=490&lines=%F0%9F%98%81+Hola+bienvenid@%2C;Soy+Mauro+Mascheroni+%F0%9F%91%8B%F0%9F%8F%BB)](https://git.io/typing-svg)
 
 - 🌎 Montevideo, Uruguay
-- 🔭 Tengo experiencia como Tester de Software, actualmente buscando nuevos desafios y crecer profesionalmente 
+- 🔭 Tengo experiencia como **Tester de Software**, actualmente buscando nuevos desafios y crecer profesionalmente 
 - 👨‍💻 Mis estudios: <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;📚 Cursando primer semestre de la carrera Tecnólogo en Informática <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;📚 Egresado de la carrera Certified Tech Developer (Professional Developer), y de la especialización Backend (Backend Developer) <br/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;📚 Egresado de la carrera Tester de Software del Centro de Ensayo de Software (CES) <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;📚 Cursando primer semestre de la carrera **Tecnólogo en Informática** <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;📚 Egresado de la carrera **Certified Tech Developer _(Professional Developer)_**, y de la **especialización Backend _(Backend Developer)_** <br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;📚 Egresado de la carrera **Tester de Software** del Centro de Ensayo de Software (CES) <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;📚 Incursionado en la automatización de pruebas, con Java, Selenium y REST Assured - Typescript y Playwright <br>
 - 🌱 Soy un apasionado por la tecnología, por lo que me motiva a estar en constante aprendizaje. <br>
   
