@@ -1,22 +1,25 @@
 <h1 align="center">Hola 👋, soy Mauro!</h1>
 
-<p align="left" style="font-weight: bold;">
-Estudiante del <em>Tecnólogo de Infórmatica y egresado de la carrera Tester de Software del CES</em>. Soy una persona curiosa por la tecnología que busca constantemente oportunidades de aprender e investigar sobre nuevas tecnologías.
-<br><br>
-Cuento con experiencia en <em>Testing y Soporte</em>.
-<br><br>
-🎯En búsqueda de oportunidades para desarrollar mis conocimientos, y de enfrentar nuevos desafíos, donde me permitan continuar aprendiendo y crecer profesionalmente en el área IT.
+<p align="left"><strong>
+Estudiante del <em>Tecnólogo de Informática y egresado de la carrera Tester de Software del CES</em>. Soy una persona curiosa por la tecnología que busca constantemente oportunidades de aprender e investigar sobre nuevas tecnologías.
+</strong></p>
 
-</p>
+<p align="left"><strong>
+Cuento con experiencia en <em>Testing y Soporte</em>.
+</strong></p>
+
+<p align="left"><strong>🎯En búsqueda de oportunidades para desarrollar mis conocimientos, y de enfrentar nuevos desafíos, donde me permitan continuar aprendiendo y crecer profesionalmente en el área IT.</strong></p>
 
 <h3 align="left">Contacto:</h3>
 <p align="left">
-    <a href="https://www.linkedin.com/in/mauromascheroni/" target="_blank" rel="noreferrer"> <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" width="40"><path fill="#0076b2" d="M116 3H12a8.91 8.91 0 00-9 8.8v104.42a8.91 8.91 0 009 8.78h104a8.93 8.93 0 009-8.81V11.77A8.93 8.93 0 00116 3z"/><path fill="#fff" d="M21.06 48.73h18.11V107H21.06zm9.06-29a10.5 10.5 0 11-10.5 10.49 10.5 10.5 0 0110.5-10.49M50.53 48.73h17.36v8h.24c2.42-4.58 8.32-9.41 17.13-9.41C103.6 47.28 107 59.35 107 75v32H88.89V78.65c0-6.75-.12-15.44-9.41-15.44s-10.87 7.36-10.87 15V107H50.53z"/></svg> </a>
+    <a href="https://www.linkedin.com/in/mauromascheroni/" target="_blank" rel="noreferrer"> 
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" />
+    </a>
 </p>
 
 <h3 align="left">Conocimientos:</h3>
 
-<div style="background-color: #B8B4C0; padding: 10px; border-radius: 5px;">
+<div align="left" style="background-color: #B8B4C0; padding: 10px; border-radius: 5px;">
     <p align="left"> 
         <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> 
         <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> 
@@ -47,7 +50,7 @@ Cuento con experiencia en <em>Testing y Soporte</em>.
         <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> 
         <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> 
         <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> 
-        S<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> 
-        S<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> 
+        <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> 
+        <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> 
     </p>
 </div>
